@@ -7,6 +7,7 @@ import (
 	"os"
 	"os/signal"
 	"time"
+	"rest\Handlers\prod.go"
 )
 
 func main() {
